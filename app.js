@@ -18,7 +18,7 @@ upBtn.addEventListener('click',() => {
     changesSlide('up')
 } )
 
-downbtn.addEventListener('сlick',() => {
+downbtn.addEventListener('click',() => {
     changesSlide('down')
 })
 
